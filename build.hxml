@@ -1,0 +1,8 @@
+-main Main
+-js .build/main.js
+
+-lib haxe-loader
+-D modular_nomaps
+
+-cp src/
+
